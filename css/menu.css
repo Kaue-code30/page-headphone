@@ -1,0 +1,10 @@
+.menu{
+    display: grid;
+    place-items: center;
+    font-size: 2.5rem;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    color: white;
+  
+}
