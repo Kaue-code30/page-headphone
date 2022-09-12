@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+}
 
 body{
     height: 100vh;
@@ -12,7 +15,8 @@ body{
         "header"
         "main"
         "footer";
-    grid-template-rows: 100px 2fr 100px;
+    grid-template-rows: 100px 1fr 100px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -28,7 +32,10 @@ header{
 
 main{
     grid-area: main;
-    background-color: aqua;
+    display: grid;
+    grid-template-areas: "description product social";
+    grid-template-columns: 380px 1fr 48px;
+    padding: 0 100px;
 }
 
 
