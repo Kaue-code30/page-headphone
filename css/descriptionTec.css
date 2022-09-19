@@ -38,3 +38,23 @@
     background-color: black;
    color: #ffff;
 }
+
+.descricao1:hover{
+    background-color: #76045D;
+    border-radius: 10%;
+    border: 2px solid white;
+}
+
+.descricao2:hover{
+    background-color:#76045D;
+    border-radius: 10%;
+    border: 2px solid white;
+}
+
+.descricao3:hover{
+    background-color: #76045D;
+    border-radius: 10%;
+    border: 2px solid white;
+}
+
+
