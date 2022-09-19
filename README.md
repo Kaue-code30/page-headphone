@@ -1,6 +1,6 @@
 # HeadPhone Razer Kraken Purple
 
-![](./img/DESKTOP.PNG)
+![](./img/DESKTOP.png)
 
 ---
 
