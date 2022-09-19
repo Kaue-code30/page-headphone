@@ -1,0 +1,40 @@
+.technical_description{
+    display: flex;
+    gap:2px;
+    
+    
+}
+.descricao1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 12px;
+    width: 220px;
+    height: 100px;
+    background-color: black;
+    color: #ffff;
+}
+.descricao2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 220px;
+    height: 100px;
+    background-color: black;
+    color: #ffff;;
+}
+.descricao3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    font-size: 12px;
+    height: 100px;
+    background-color: black;
+   color: #ffff;
+}
